@@ -1,0 +1,16 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  img {
+    width: 1000px;
+    height: auto;
+    border-radius: 20px;
+    border: 10px solid #556b2f;
+    box-shadow: 6px 6px 10px #303030;
+  }
+  h1 {
+    font-size: 70px;
+  }
+}
